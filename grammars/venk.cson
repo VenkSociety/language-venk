@@ -1,0 +1,11 @@
+name: 'Venk'
+scopeName: 'venk'
+type: 'tree-sitter'
+parser: 'tree-sitter-venk'
+fileTypes: ['venk']
+
+comments:
+  start: '# '
+
+scopes:
+  'call_expression > identifier': 'entity.name.function'

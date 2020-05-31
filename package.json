@@ -1,0 +1,13 @@
+{
+  "name": "language-venk",
+  "version": "0.0.0",
+  "description": "Adds syntax highlighting to Venk files in Atom.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": { "atom": ">=1.0.0 <2.0.0" },
+  "author": "",
+  "repository": "https://github.com/VenkSociety/language-venk",
+  "license": "ISC"
+}
